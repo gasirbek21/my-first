@@ -1,0 +1,33 @@
+
+.row{
+    height: 6.25rem;
+}
+
+.row > div{
+    padding: 1rem;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid black;
+    align-items: center;
+}
+
+.header-section{
+    background-color: #F89426;
+    
+}
+
+.main-section{
+    background-color: #3CBEE6;
+}
+
+.empty-section{
+    background-color: #fff;
+}
+
+.sidebar-section{
+    background-color: #EB7171;
+}
+
+.footer-section{
+    background-color: #73C575;
+}
